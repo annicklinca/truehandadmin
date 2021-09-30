@@ -1,0 +1,6 @@
+[24-Sep-2021 06:20:40 America/New_York] PHP Warning:  include(./../../../connection.php): failed to open stream: No such file or directory in /home/truelkoy/public_html/admin/clients/nav.php on line 2
+[24-Sep-2021 06:20:40 America/New_York] PHP Warning:  include(./../../../connection.php): failed to open stream: No such file or directory in /home/truelkoy/public_html/admin/clients/nav.php on line 2
+[24-Sep-2021 06:20:40 America/New_York] PHP Warning:  include(): Failed opening './../../../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/truelkoy/public_html/admin/clients/nav.php on line 2
+[25-Sep-2021 20:07:16 America/New_York] PHP Warning:  include(../../../connection.php): failed to open stream: No such file or directory in /home/truelkoy/public_html/admin/clients/delete.php on line 2
+[25-Sep-2021 20:07:16 America/New_York] PHP Warning:  include(../../../connection.php): failed to open stream: No such file or directory in /home/truelkoy/public_html/admin/clients/delete.php on line 2
+[25-Sep-2021 20:07:16 America/New_York] PHP Warning:  include(): Failed opening '../../../connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/truelkoy/public_html/admin/clients/delete.php on line 2
